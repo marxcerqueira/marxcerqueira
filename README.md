@@ -21,6 +21,57 @@
 
 ### Languages and Tools:
 
+<h2 align="left"> 🔧 Languages and Tools</h2>
+<p align="left">
+ <table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>VSCode</span><br><br>
+        <img height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Python</span><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>pandas</span><br><br>
+        <img height="48px" src="https://pandas.pydata.org/static/img/pandas.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>NumPy</span><br><br>
+        <img height="48px" src="https://numpy.org/images/logos/numpy.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>MongoDB</span><br><br>
+        <img height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>seaborn</span><br><br>
+        <img height="48px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>scikit-learn</span><br><br>
+        <img height="48px" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
+      </td>
+      </td>
+      <td width="20%" align="center">
+        <span>Apache Spark</span><br><br>
+        <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">
+      </td>
+    <td width="20%" align="center">
+        <span>Flask</span><br><br>
+        <img height="48px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Heroku</span><br><br>
+        <img height="48px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
+  </tbody>
+</table>
+</p>
+
 <img align="left" alt="python" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
 
 <img align="left" alt="visual studio code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
