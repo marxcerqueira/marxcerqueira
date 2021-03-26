@@ -72,11 +72,11 @@
    <tr valign="top">
       <td width="20%" align="center">
         <span>PowerBI</span><br><br>
-        <img height="48px" src="https://hotmart.s3.amazonaws.com/product_contents/44040e20-3d37-44be-9a9b-f935ceb3fcf4/Logo_Amarela.png">
+        <img height="52" src="https://hotmart.s3.amazonaws.com/product_contents/44040e20-3d37-44be-9a9b-f935ceb3fcf4/Logo_Amarela.png">
       </td>
       <td width="20%" align="center">
         <span>MySQL</span><br><br>
-        <img height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+        <img height="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
       </td>
     </tr>
   </tbody>
