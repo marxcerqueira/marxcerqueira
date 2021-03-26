@@ -68,34 +68,21 @@
       <td width="20%" align="center">
         <span>Heroku</span><br><br>
         <img height="48px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
+   </tr>
+   <tr valign="top">
+      <td width="20%" align="center">
+        <span>PowerBI</span><br><br>
+        <img height="48px" src="https://hotmart.s3.amazonaws.com/product_contents/44040e20-3d37-44be-9a9b-f935ceb3fcf4/Logo_Amarela.png">
+      </td>
+      <td width="20%" align="center">
+        <span>MySQL</span><br><br>
+        <img height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+      </td>
+    </tr>
   </tbody>
 </table>
 </p>
 
-<img align="left" alt="python" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
-
-<img align="left" alt="visual studio code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="SQL" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/postgresql.svg" />
-
-<img align="left" alt="MySQL" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="MongoDB" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="Pandas" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
-
-<img align="left" alt="Spark" width="48px" src="https://miro.medium.com/max/1200/1*jvxJNDq39isZ-Kgf9VsSAQ.png" />
-
-
-<img align="left" alt="PowerBI" width="48px" src="https://hotmart.s3.amazonaws.com/product_contents/2525165d-e901-4bc6-a91d-cce2738086c7/apps2061313510798883380398583c01908095445497ed8f1f166bde89.png" />
-
-<img align="left" alt="GitHub" width="48px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Git" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="Terminal" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
 <br />
 
 ---
