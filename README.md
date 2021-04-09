@@ -71,6 +71,22 @@
 </p>
 
 <br />
+---
+### Main Projects
+
+#### [Does religion generate prosocial behavior?](https://github.com/marxcerqueira/Kaggle-Rossman-Sales-Prediction)
+
+A multivariate linear regression modeling approach to measure religious prosocial behavior in economics experiments. In this paper, association between religion and prosocial behavior were investigated for 48 Buddhist practitioners in Japan. 
+
+Repository: https://github.com/marxcerqueira/Kaggle-Rossman-Sales-Prediction
+
+#### [Custumer Churn Rate Prediction](https://github.com/marxcerqueira/Kaggle-Client-Churn-Prediction)
+
+Rankear os clientes com maiores probabilidades de entrar em churn
+
+Using supervisioned machine learn model and learning to Rank metrics to evaluate custumers with high probabilities to be in churn. Churn rate is one of the biggest expenditures of any organization, so with this model in production we can take actions to avoid customer churn and increase ROI% by ranking which client would the company give a gift card to and how much that amount would be, in order to maximize ROI.
+
+Repository: https://github.com/marxcerqueira/Kaggle-Client-Churn-Prediction
 
 ---
 
