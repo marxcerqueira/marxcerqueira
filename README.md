@@ -84,7 +84,7 @@ Repository: https://github.com/marxcerqueira/Kaggle-Rossman-Sales-Prediction
 
 #### [Custumer Churn Rate Prediction (In progress)](https://github.com/marxcerqueira/Kaggle-Client-Churn-Prediction)
 
-Using supervisioned machine learn model and learning to Rank metrics to evaluate custumers with high probabilities to be in churn. Churn rate is one of the biggest expenditures of any organization, so with this model in production we can take actions to avoid customer churn and increase ROI% by ranking which client would the company give a gift card to and how much that amount would be, in order to maximize ROI.
+Using supervisioned machine learn model and learning to Rank metrics to evaluate customers with high probabilities to be in churn. Churn rate is one of the biggest expenditures of any organization, so with this model in production we can take actions to avoid customer churn and increase ROI% by ranking which client would the company give a gift card to and how much that amount would be, in order to maximize ROI.
 
 Repository: https://github.com/marxcerqueira/Kaggle-Client-Churn-Prediction
 
