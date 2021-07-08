@@ -56,11 +56,6 @@
         <span>Heroku</span><br><br>
         <img height="48px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
    </tr>
-   <tr valign="top">
-      <td width="20%" align="center">
-        <span>PowerBI</span><br><br>
-        <img height="52" src="https://hotmart.s3.amazonaws.com/product_contents/44040e20-3d37-44be-9a9b-f935ceb3fcf4/Logo_Amarela.png">
-      </td>
       <td width="20%" align="center">
         <span>MySQL</span><br><br>
         <img height="58" src="https://img2.gratispng.com/20180819/xv/kisspng-logo-mysql-cluster-database-oracle-corporation-macrosolution-5b7962c3aaa0d2.7413479715346817956989.jpg">
