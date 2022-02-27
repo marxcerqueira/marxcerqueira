@@ -71,17 +71,24 @@
 
 ### Main Projects
 
-#### [Rossmann Sales Prediction](https://github.com/marxcerqueira/Kaggle-Rossman-Sales-Prediction)
+#### [Rossmann Sales Prediction - Regression](https://github.com/marxcerqueira/Kaggle-Rossman-Sales-Prediction)
 
 An end-to-end Data Science project with statistical theory explanations behind each section. Created five machine learning models to forecast sales for Rossmann, a major European drug-store chain firm. Predictions can be accessed by users through a bot from the smartphone app Telegram. 
 
 Repository: https://github.com/marxcerqueira/Kaggle-Rossman-Sales-Prediction
 
-#### [Custumer Churn Rate Prediction](https://github.com/marxcerqueira/Kaggle-Client-Churn-Prediction)
+#### [Custumer Churn Rate Prediction - Classification](https://github.com/marxcerqueira/Kaggle-Client-Churn-Prediction)
 
 Using supervisioned machine learn model and learning to Rank metrics to evaluate customers with high probabilities to be in churn. Churn rate is one of the biggest expenditures of any organization, so with this model in production we can take actions to avoid customer churn and increase ROI% by ranking which client would the company give a gift card to and how much that amount would be, in order to maximize ROI.
 
 Repository: https://github.com/marxcerqueira/Kaggle-Client-Churn-Prediction
+
+
+#### [High Value Customer Indetification - Clustering](https://github.com/marxcerqueira/Kaggle-HighValue-Custormers-Identification)
+
+This project has a goal to discovery similiarity people to join a membership program. The marketing team will launch a loyalty program for the best customers in the base, called Insiders. But the team does not have an advanced knowledge in data analysis to elect the participants of the program
+
+Repository: https://github.com/marxcerqueira/Kaggle-HighValue-Custormers-Identification
 
 ---
 
