@@ -84,7 +84,7 @@ Using supervisioned machine learn model and learning to Rank metrics to evaluate
 Repository: https://github.com/marxcerqueira/Kaggle-Client-Churn-Prediction
 
 
-#### [High Value Customer Indetification - Clustering](https://github.com/marxcerqueira/Kaggle-HighValue-Custormers-Identification)
+#### [High Value Customer Indetification - Clustering (ONGOING)](https://github.com/marxcerqueira/Kaggle-HighValue-Custormers-Identification)
 
 This project has a goal to discovery similiarity people to join a membership program. The marketing team will launch a loyalty program for the best customers in the base, called Insiders. But the team does not have an advanced knowledge in data analysis to elect the participants of the program
 
