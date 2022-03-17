@@ -5,7 +5,7 @@
 - 💻 I’m currently studying Data Science, focused on career change
 - 📈 I’m constantly learning and Improving my skills 🤣
 - 👯 I’m looking to collaborate with other Data Scientists and developers 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to jump out of airplanes ✈️🪂
 
 ### Languages and Tools:
