@@ -90,7 +90,7 @@ This project has a goal to discovery similiarity people to join a membership pro
 
 Repository: https://github.com/marxcerqueira/Kaggle-HighValue-Custormers-Identification
 
-#### [Flipping Houses Business Analytics](https://github.com/marxcerqueira/analytics-streamlit-dashboard)
+#### [Flipping Houses Business Analytics - Insights Project](https://github.com/marxcerqueira/analytics-streamlit-dashboard)
 
 House Rocket is a Real Estate Flipping Houses business that goes on digital platform to buy and sell houses by using technology. My goal was to help the company find the best business opportunities in the real estate market using Exploratory Data Analysis. The CEO of House Rocket would like to maximize the company's revenue by finding good business opportunities.
 
