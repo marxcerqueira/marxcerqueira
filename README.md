@@ -2,7 +2,7 @@
 
 #### I am an electrical engineer passionate about data and turned a Data Scientist who loves leveraging data-driven solutions that make an impact on business and society!
 
-- 💻 I’m currently studying Data Science, focused on career change
+- 💻 I’m a data scientist and former Electrical Engineer
 - 📈 I’m constantly learning and Improving my skills 🤣
 - 👯 I’m looking to collaborate with other Data Scientists and developers 
 - 🥅 2022 Goals: Contribute more to Open Source projects
