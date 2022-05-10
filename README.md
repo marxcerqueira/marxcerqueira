@@ -115,6 +115,20 @@ Repository: https://github.com/marxcerqueira/analytics-streamlit-dashboard
 
 <br />
 
+### 📊 Stats
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marxcerqueira&show_icons=true&theme=tokyonight" height="140px" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marxcerqueira&layout=compact&theme=tokyonight" height="140px" alt="stats" />
+</p>
+
+### 📈 Contributions
+---
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=marxcerqueira&theme=react-dark" alt="contributions" />
+</p>
+
 <img align="left" alt="Marx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marxcerqueira&show_icons=true&hide_border=true" />
 
 [medium]: https://medium.com/@marxcerqueira
