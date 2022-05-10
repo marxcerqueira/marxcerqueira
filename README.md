@@ -122,9 +122,6 @@ Repository: https://github.com/marxcerqueira/analytics-streamlit-dashboard
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marxcerqueira&layout=compact&theme=tokyonight" height="140px" alt="stats" />
 </p>
 
-### 📈 Contributions
----
-
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=marxcerqueira&theme=react-dark" alt="contributions" />
 </p>
